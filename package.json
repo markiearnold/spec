@@ -5,7 +5,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/mactrem/com-tiles.git"
+    "url": "https://github.com/markiearnold/spec.git"
   },
   "types": "types/metadata.d.ts",
   "scripts": {
